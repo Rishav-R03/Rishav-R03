@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rishav-R03
 - 👀 I’m interested in Cloud Computing and Automation
-- 🌱 I’m currently learning Full Stack Development
+- 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 Instagram - https://www.instagram.com/rishav_r03/
 - 📫 Linkedin - [Rishav Raj](https://www.linkedin.com/in/rishav-raj-15b077249/)
