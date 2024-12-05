@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rishav-R03
-- 👀 I’m interested in Cloud Computing and Automation
-- 🌱 I’m currently learning Full Stack Web Development (MERN Stack)
+- 👀 I’m interested in Designing Data Intensive Applications.
+- 🌱 I’m currently learning Data Engineering and Science.
 - 💞️ I’m looking to collaborate on Full Stack opportunities
 - 📫 Instagram - https://www.instagram.com/rishav_r03/
 - 📫 Linkedin - [Rishav Raj](https://www.linkedin.com/in/rishav-raj-15b077249/)
