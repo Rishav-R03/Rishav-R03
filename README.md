@@ -32,7 +32,7 @@ Hey there! 👋 I'm a **Data Engineer & Cloud Enthusiast** with expertise in **B
 
 ### 📊 **GitHub Stats**
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rishav-R03_icons=true&theme=tokyonight)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rishav-R03&show_icons=true&theme=tokyonight)
 ![Your GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishav-R03&layout=compact&theme=tokyonight)
 
 ---
