@@ -75,9 +75,9 @@ I am a **pre-final year B.Tech student in Cloud Computing & Automation**, passio
 
 ### ✍ **Blog & Writing**
 
-📢 I write about **Data Engineering, Cloud & DevOps** on [Hashnode]([https://medium.com/@YourUsername](https://hashnode.com/@RishavR03)) and [LinkedIn](https://www.linkedin.com/in/rishav-raj-15b077249/). Check out my latest blogs:
-- **[How to Build Scalable Data Pipelines](https://medium.com/@YourUsername)**
-- **[CI/CD for Data Engineers](https://medium.com/@YourUsername)**
+📢 I write about **Machine Learning Engineering, Cloud & DevOps** on [Hashnode]([https://hashnode.com/@RishavR03](https://hashnode.com/@RishavR03)) and [LinkedIn](https://www.linkedin.com/in/rishav-raj-15b077249/). Check out my latest blogs:
+- **[How to Build Scalable Data Pipelines](https://hashnode.com/@RishavR03)**
+- **[CI/CD for Machine Learning](https://hashnode.com/@RishavR03)**
 
 ---
 
