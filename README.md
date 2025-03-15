@@ -2,10 +2,8 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Rishav-R03&color=blue)  
 
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white) ![Redshift](https://img.shields.io/badge/Amazon%20Redshift-8C4CBE?style=for-the-badge&logo=amazon-redshift&logoColor=white)
-
 ---
-### Hi there, I'm [Your Name] 👋
+### Hi there, I'm Rishav Raj 👋
 
 🚀 **Full-Stack ML Engineer | Cloud & MLOps Enthusiast**
 
