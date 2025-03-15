@@ -57,7 +57,7 @@ I am a **pre-final year B.Tech student in Cloud Computing & Automation**, passio
 ### 📫 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/your-profile) 
 [![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/your-username)  
-[![Medium](https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@your-username)  
+[![Hashnode](https://img.shields.io/badge/-Hashnode-blue?style=for-the-badge&logo=Hashnode&logoColor=white)](https://hashnode.com/@RishavR03) 
 
 ---
 
