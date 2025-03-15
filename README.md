@@ -48,6 +48,7 @@ I am a **pre-final year B.Tech student in Cloud Computing & Automation**, passio
 
 ### 🎓 Certifications:
 ✅ **AWS Cloud Certified Practitioner Certificate**(Preparing)
+
 ✅ **AWS Certified Machine Learning – Specialty** (Planned)  
 ✅ **Google Cloud ML Engineer Certification**(Planned)  
 ✅ **TensorFlow Developer Certificate**  (Planned)
