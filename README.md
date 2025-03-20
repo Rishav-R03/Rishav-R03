@@ -1,88 +1,51 @@
-## 🚀 Machine Learning | Cloud & DevOps Enthusiast | Big Data | AWS | Kubernetes | Terraform
+## 🚀 Rishav Raj | Backend & Cloud Engineer  
+### **Python 🐍 | Golang ⚡ | DevOps | Distributed Systems | AWS | Kubernetes**  
 
-![Profile Views](https://komarev.com/ghpvc/?username=Rishav-R03&color=blue)  
-
----
-### Hi there, I'm Rishav Raj 👋
-
-🚀 **Full-Stack ML Engineer | Cloud & MLOps Enthusiast**
-
-I am a **pre-final year B.Tech student in Cloud Computing & Automation**, passionate about building **end-to-end Machine Learning solutions** from development to deployment. My expertise includes **ML model training, API development, cloud deployment, and MLOps automation.**
+Hey there! 👋 I'm **Rishav**, a passionate **Backend & Cloud Engineer** focused on **scalability, distributed systems, and cloud-native development**. I love crafting high-performance backend services and automating cloud infrastructure. 
 
 ---
 
-### 🛠️ Tech Stack & Skills:
+### 🛠️ **Tech Stack & Tools:**  
 
-#### **👨‍💻 Machine Learning & AI:**
-- Python | TensorFlow | PyTorch | Scikit-learn | OpenCV | NLP (Transformers, BERT)
-- Computer Vision | Recommender Systems | Time Series Analysis
-
-#### **🌐 API Development & Deployment:**
-- FastAPI | Flask | gRPC | Streamlit (for UI) 
-- Docker | Kubernetes | CI/CD | MLflow | Apache Airflow
-
-#### **☁️ Cloud & DevOps:**
-- AWS (SageMaker, Lambda, S3, DynamoDB) | GCP (Vertex AI, Cloud Run) | Terraform | GitHub Actions
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
+![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat&logo=go&logoColor=white)  
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)  
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)  
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)  
 
 ---
 
-### 🔥 Featured Projects:
+### 🚀 **Projects:**  
+🔹 [**Project 1: Scalable URL Shortener**](https://github.com/Rishav-R03/url-shortener) *(Golang, Redis, PostgreSQL, Kubernetes)*  
+🔹 [**Project 2: Automated Cloud Infra Deployment**](https://github.com/Rishav-R03/cloud-automation) *(Python, AWS Lambda, Terraform)*  
+🔹 [**Project 3: Real-Time Notification System**](https://github.com/Rishav-R03/notification-service) *(Golang, Kafka, WebSockets)*  
 
-🚀 **[Real-Time Object Detection API](#)**  
-🔹 YOLOv5 + FastAPI + Kubernetes + AWS Lambda + Kafka (for real-time streaming)  
-🔹 **Tech:** OpenCV | TensorFlow | Kubernetes | AWS Lambda | Kafka
-
-💬 **[AI Chatbot with NLP](#)**  
-🔹 Chatbot using **BERT/GPT API** deployed on **Google Vertex AI**  
-🔹 **Tech:** Hugging Face | FastAPI | AWS DynamoDB | Kubernetes
-
-🔄 **[MLOps Pipeline for Automated Model Retraining](#)**  
-🔹 CI/CD for ML with **MLflow, Apache Airflow, and Terraform on AWS**  
-🔹 **Tech:** Airflow | MLflow | AWS S3 | Docker | CI/CD
-
-📺 **[Scalable Recommendation System](#)**  
-🔹 Netflix-like movie recommendation engine with **FastAPI + Kafka**  
-🔹 **Tech:** Collaborative Filtering | Spark Streaming | AWS Lambda
+💡 **More projects coming soon!** 🔥
 
 ---
 
-### 🎓 Certifications:
-✅ **AWS Cloud Certified Practitioner Certificate**(Preparing)
-
-✅ **AWS Certified Machine Learning – Specialty** (Planned)  
-✅ **Google Cloud ML Engineer Certification**(Planned)  
-✅ **TensorFlow Developer Certificate**  (Planned)
----
-
-### 📫 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/your-profile) 
-[![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/your-username)  
-[![Hashnode](https://img.shields.io/badge/-Hashnode-blue?style=for-the-badge&logo=Hashnode&logoColor=white)](https://hashnode.com/@RishavR03) 
+### 📊 **GitHub Stats:**  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rishav-R03&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishav-R03&theme=radical" alt="GitHub Streak" />
+</p>
 
 ---
 
-🚀 **Let's collaborate and build AI-driven solutions together!** 💡
-
-
----
-
-### 📊 **GitHub Stats**
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rishav-R03&show_icons=true&theme=tokyonight)
-![Your GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishav-R03&layout=compact&theme=tokyonight)
+### 👀 **Profile Views & GitHub Grade**  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rishav-R03&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/grading?username=Rishav-R03&theme=radical" alt="GitHub Grade" />
+</p>
 
 ---
 
-### ✍ **Blog & Writing**
+### 📫 **Connect With Me:**  
+📧 **Email:** [rishav042023@gmail.com](mailto:rishav042023@gmail.com)  
+🔗 **GitHub:** [github.com/Rishav-R03](https://github.com/Rishav-R03)  
+🐦 **Twitter/X:** [x.com/RishavR39532110](https://x.com/RishavR39532110)  
+💼 **LinkedIn:** [linkedin.com/in/Rishav-Raj](https://linkedin.com/in/Rishav-Raj)  
 
-📢 I write about **Machine Learning Engineering, Cloud & DevOps** on [Hashnode]([https://hashnode.com/@RishavR03](https://hashnode.com/@RishavR03)) and [LinkedIn](https://www.linkedin.com/in/rishav-raj-15b077249/). Check out my latest blogs:
-- **[How to Build Scalable Data Pipelines](https://hashnode.com/@RishavR03)**
-- **[CI/CD for Machine Learning](https://hashnode.com/@RishavR03)**
-
----
-
-### 📫 **Let's Connect!**
-
-🌐 [LinkedIn](https://www.linkedin.com/in/rishav-raj-15b077249/) • 🐦 [Twitter](https://x.com/RishavR39532110) • 📩 [Email](mailto:rishav042023@gmail.com)
-
-💬 Feel free to **reach out for collaborations, job opportunities, or tech discussions!** 😃
+🌟 *Let's build something amazing together!* 🚀
