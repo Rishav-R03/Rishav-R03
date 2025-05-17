@@ -71,15 +71,15 @@
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-Rishav-R03&show_icons=true&theme=tokyonight" alt="Your GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rishav-R03&show_icons=true&theme=tokyonight" alt="Your GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-github-Rishav-R03&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Rishav-R03&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-Rishav-R03&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishav-R03&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
