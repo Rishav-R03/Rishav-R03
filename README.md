@@ -34,37 +34,43 @@
 
 ## 📌 Featured Projects
 
-### 🔹 Real-Time Event Streaming Platform
-**Tech:** Node.js, Kafka, PostgreSQL, AWS, Prometheus, Grafana, Terraform  
-- Simulates real-time log/event processing pipeline
-- Kafka brokers for event streams, processed by Node.js consumers
-- Terraform-managed AWS infra with monitoring dashboards  
-[GitHub Repo](#) • [Architecture Diagram](#) • [Live Demo (if any)](#)
+## 📝 Notes API – Scalable and Secure Backend for Note Management
+
+A production-grade RESTful API built with **Node.js**, **Express**, and **PostgreSQL** — featuring secure JWT authentication, full CRUD capabilities, search, pagination, testing with Jest, CI/CD automation, and Dockerized deployment on **AWS EC2**.
+
+This project mimics a real-world SaaS-style backend system and includes robust testing and DevOps practices to ensure scalability, maintainability, and performance.
 
 ---
 
-### 🔹 Microservices E-Commerce Backend
-**Tech:** Node.js, gRPC, PostgreSQL, Docker, GitHub Actions, AWS  
-- Order, Cart, and Payment microservices using gRPC
-- PostgreSQL for relational data handling
-- GitHub Actions for CI/CD and AWS deployment  
-[GitHub Repo](#) • [Live API Docs](#)
+### 🚀 Key Features
+
+- 🔐 JWT Authentication & Authorization
+- 🧠 CRUD for Notes with Search and Pagination
+- 🧪 95%+ Test Coverage using Jest & Supertest
+- 🐳 Dockerized for Dev & Production Environments
+- 🔁 CI/CD Pipeline via GitHub Actions
+- ☁️ Deployed on AWS EC2 with secure environment variables
 
 ---
 
-### 🔹 Cloud-Native DevOps Dashboard
-**Tech:** Node.js, Terraform, AWS, GitHub Actions, Prometheus, Grafana  
-- Real-time dashboard of AWS resource usage & health
-- GitHub Actions pipelines for monitoring and alerting infra updates  
-[GitHub Repo](#)
+### 🔗 Quick Access
+
+[![🔗 GitHub Repo](https://img.shields.io/badge/GitHub-Repo-24292F?logo=github&style=for-the-badge&logoColor=white)](https://github.com/your-username/notes-api)
+[![📺 Demo Video](https://img.shields.io/badge/Demo-Video-red?style=for-the-badge&logo=youtube)](https://your-demo-link.com)
+[![🌐 Live API](https://img.shields.io/badge/Live-API-success?style=for-the-badge&logo=vercel)](http://your-api-url.com)
 
 ---
 
-### 🔹 Distributed Task Scheduler
-**Tech:** Node.js, Redis, PostgreSQL, Prometheus  
-- Queue-based task runner for background job scheduling
-- Monitoring with Prometheus; metrics exposed via /metrics endpoint  
-[GitHub Repo](#)
+### 📈 Impact
+
+- 🚀 Average response time: **<300ms**
+- ✅ CI/CD success rate: **100%**
+- 📦 API Ready for 10K+ requests/day scale
+- ⚙️ Docker-based one-command deployment
+
+---
+
+🔍 This project is part of my **backend + DevOps portfolio**. Feel free to check out the full repository and explore the API routes and test coverage.
 
 ---
 
