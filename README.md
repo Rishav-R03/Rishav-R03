@@ -3,57 +3,65 @@
 
 ---
 
-🔭 I’m currently building scalable, production-grade systems using **Node.js, AWS, Kafka, Terraform, gRPC, and Prometheus**  
-🌱 I’m learning to architect **high-performance distributed systems** with observability and infrastructure automation  
-🎯 Actively applying for **Backend, DevOps, Cloud, and Platform Engineering roles** in high-growth startups and tech firms  
-📫 Reach me at: [rishav042023@gmail.com] | [LinkedIn](https://www.linkedin.com/in/rishav-raj-15b077249/)
+ I’m currently building scalable, production-grade systems using **Node.js, AWS, Kafka, Terraform, gRPC, and Prometheus**  
+ I’m learning to architect **high-performance distributed systems** with observability and infrastructure automation  
+ Actively applying for **Backend, DevOps, Cloud, and Platform Engineering roles** in high-growth startups and tech firms  
+ Reach me at: [rishav042023@gmail.com] | [LinkedIn](https://www.linkedin.com/in/rishav-raj-15b077249/)
 
 ---
 
-## 🚀 Tech Stack
+##  Tech Stack
 
-### 👨‍💻 Programming & Backend
+###  Programming & Backend
 `Node.js` `JavaScript` `Python` `Express.js` `REST APIs` `gRPC` `JWT`
 
-### 🗃️ Databases & Data Modeling
+###  Databases & Data Modeling
 `PostgreSQL` `SQL` `Database Design` `ACID` `Indexes`
 
-### ☁️ Cloud & DevOps
+###  Cloud & DevOps
 `AWS (EC2, S3, Lambda, IAM)` `Terraform` `Docker` `GitHub Actions` `CI/CD`
 
-### 📈 Monitoring & Observability
+###  Monitoring & Observability
 `Prometheus` `Grafana` `Custom Metrics` `Infrastructure Dashboards`
 
-### 📡 Messaging & Distributed Systems
+###  Messaging & Distributed Systems
 `Apache Kafka` `Redis` `Async Task Queues` `Microservices`
 
-### 🔍 CS Core
+###  CS Core
 `DSA` `System Design` `Operating Systems` `Computer Networks` `DBMS`
 
 ---
 
-## 📌 Featured Projects
+##  Featured Projects
 
-## 📝 Notes API – Scalable and Secure Backend for Note Management
+## Task Management API – Dockerized REST Backend
+A production-ready, Dockerized REST API built with Node.js, Express, and MongoDB Atlas, designed for full CRUD task management. This project demonstrates backend development, containerization with Docker, and real-world cloud deployment on AWS EC2.
 
-A production-grade RESTful API built with **Node.js**, **Express**, and **PostgreSQL** — featuring secure JWT authentication, full CRUD capabilities, search, pagination, testing with Jest, CI/CD automation, and Dockerized deployment on **AWS EC2**.
+ Tech Stack: Node.js, Express, MongoDB, Docker, AWS EC2
 
-This project mimics a real-world SaaS-style backend system and includes robust testing and DevOps practices to ensure scalability, maintainability, and performance.
+ Fully Dockerized using Docker Compose
 
----
+ Deployed on a live EC2 instance
 
-### 🚀 Key Features
+ Supports GET, POST, PUT, DELETE endpoints for managing tasks
 
-- 🔐 JWT Authentication & Authorization
-- 🧠 CRUD for Notes with Search and Pagination
-- 🧪 95%+ Test Coverage using Jest & Supertest
-- 🐳 Dockerized for Dev & Production Environments
-- 🔁 CI/CD Pipeline via GitHub Actions
-- ☁️ Deployed on AWS EC2 with secure environment variables
+ Environment-secured MongoDB Atlas integration
+
+ This project showcases my combined skills in API development, DevOps, and cloud infrastructure, suitable for SDE and DevOps roles.
 
 ---
 
-### 🔗 Quick Access
+###  Key Features
+
+-  JWT Authentication & Authorization
+-  CRUD for Tasks
+-  95%+ Test Coverage using Jest & Supertest
+-  Dockerized for Dev & Production Environments
+-  CI/CD Pipeline via GitHub Actions
+-  Deployed on AWS EC2 with secure environment variables
+---
+
+###  Quick Access
 
 [![🔗 GitHub Repo](https://img.shields.io/badge/GitHub-Repo-24292F?logo=github&style=for-the-badge&logoColor=white)](https://github.com/your-username/notes-api)
 [![📺 Demo Video](https://img.shields.io/badge/Demo-Video-red?style=for-the-badge&logo=youtube)](https://your-demo-link.com)
@@ -61,20 +69,18 @@ This project mimics a real-world SaaS-style backend system and includes robust t
 
 ---
 
-### 📈 Impact
+###  Impact
+-  Average response time: **<300ms**
+-  CI/CD success rate: **100%**
+-  API Ready for 10K+ requests/day scale
+-  Docker-based one-command deployment
+---
 
-- 🚀 Average response time: **<300ms**
-- ✅ CI/CD success rate: **100%**
-- 📦 API Ready for 10K+ requests/day scale
-- ⚙️ Docker-based one-command deployment
+ This project is part of my **backend + DevOps portfolio**. Feel free to check out the full repository and explore the API routes and test coverage.
 
 ---
 
-🔍 This project is part of my **backend + DevOps portfolio**. Feel free to check out the full repository and explore the API routes and test coverage.
-
----
-
-## 📊 GitHub Stats & Activity
+##  GitHub Stats & Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rishav-R03&show_icons=true&theme=tokyonight" alt="Your GitHub Stats" />
@@ -90,25 +96,25 @@ This project mimics a real-world SaaS-style backend system and includes robust t
 
 ---
 
-## 📂 GitHub Highlights
+##  GitHub Highlights
 
-- 🏗️ Infra-as-Code projects with `Terraform`
-- 🔁 CI/CD pipelines built with `GitHub Actions`
-- 📦 Microservices using `gRPC` and `Kafka`
-- 📊 Custom monitoring dashboards with `Grafana`
-- 🧠 Deep understanding of `System Design`, `DSA`, and `CS Fundamentals`
-
----
-
-## 🎯 Career Goals
-
-- 🚀 Break into high-impact backend or cloud engineering roles (15+ LPA)
-- 🔬 Build MLOps-ready infrastructure for AI/LLM model deployment
-- 🌐 Contribute to open-source infrastructure tooling
+-  Infra-as-Code projects with `Terraform`
+-  CI/CD pipelines built with `GitHub Actions`
+-  Microservices using `gRPC` and `Kafka`
+-  Custom monitoring dashboards with `Grafana`
+-  Deep understanding of `System Design`, `DSA`, and `CS Fundamentals`
 
 ---
 
-## 💡 Let's Collaborate
+##  Career Goals
+
+-  Break into high-impact backend or cloud engineering roles (15+ LPA)
+-  Build MLOps-ready infrastructure for AI/LLM model deployment
+-  Contribute to open-source infrastructure tooling
+
+---
+
+##  Let's Collaborate
 
 Got a project or problem in:
 - Backend Scaling
