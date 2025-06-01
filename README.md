@@ -13,13 +13,13 @@
 ##  Tech Stack
 
 ###  Programming & Backend
-`Node.js` `JavaScript` `Python` `Express.js` `REST APIs` `gRPC` `JWT`
+`Node.js` `JavaScript` `Python` `Express.js` `REST APIs`  `JWT`
 
 ###  Databases & Data Modeling
 `PostgreSQL` `SQL` `Database Design` `ACID` `Indexes`
 
 ###  Cloud & DevOps
-`AWS (EC2, S3, Lambda, IAM)` `Terraform` `Docker` `GitHub Actions` `CI/CD`
+`AWS (EC2, S3, Lambda, IAM)` `Docker` `GitHub Actions` `CI/CD`
 
 ###  Monitoring & Observability
 `Prometheus` `Grafana` `Custom Metrics` `Infrastructure Dashboards`
