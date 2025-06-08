@@ -13,7 +13,7 @@
 ##  Tech Stack
 
 ###  Programming & Backend
-`Node.js` `JavaScript` `Python` `Express.js` `REST APIs`  `JWT`
+`Node.js` `Python` `Fast API` `REST APIs`  `JWT`
 
 ###  Databases & Data Modeling
 `PostgreSQL` `SQL` `Database Design` `ACID` `Indexes`
