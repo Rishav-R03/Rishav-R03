@@ -21,9 +21,6 @@
 ###  Cloud & DevOps
 `AWS (EC2, S3, Lambda, IAM)` `Docker` `GitHub Actions` `CI/CD`
 
-###  Monitoring & Observability
-`Prometheus` `Grafana` `Custom Metrics` `Infrastructure Dashboards`
-
 ###  Messaging & Distributed Systems
 `Apache Kafka` `Redis` `Async Task Queues` `Microservices`
 
