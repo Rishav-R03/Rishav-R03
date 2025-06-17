@@ -13,7 +13,7 @@
 ##  Tech Stack
 
 ###  Programming & Backend
-`Node.js` `Python` `Fast API` `REST APIs`  `JWT`
+`Go-Lang` `Python` `Fast API` `REST APIs`  `JWT`
 
 ###  Databases & Data Modeling
 `PostgreSQL` `SQL` `Database Design` `ACID` `Indexes`
@@ -21,8 +21,6 @@
 ###  Cloud & DevOps
 `AWS (EC2, S3, Lambda, IAM)` `Docker` `GitHub Actions` `CI/CD`
 
-###  Messaging & Distributed Systems
-`Apache Kafka` `Redis` `Async Task Queues` `Microservices`
 
 ###  CS Core
 `DSA` `System Design` `Operating Systems` `Computer Networks` `DBMS`
@@ -97,7 +95,6 @@ A production-ready, Dockerized REST API built with Node.js, Express, and MongoDB
 
 -  Infra-as-Code projects with `Terraform`
 -  CI/CD pipelines built with `GitHub Actions`
--  Microservices using `gRPC` and `Kafka`
 -  Custom monitoring dashboards with `Grafana`
 -  Deep understanding of `System Design`, `DSA`, and `CS Fundamentals`
 
