@@ -13,7 +13,7 @@
 ##  Tech Stack
 
 ###  Programming & Backend
-`Go-Lang` `Python` `Fast API` `REST APIs`  `JWT`
+`Python` `Fast API` `REST APIs`  `JWT`
 
 ###  Databases & Data Modeling
 `PostgreSQL` `SQL` `Database Design` `ACID` `Indexes`
