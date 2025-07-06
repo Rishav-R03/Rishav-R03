@@ -29,7 +29,7 @@
 
 ##  Featured Projects
 
-## Task Management API – Dockerized REST Backend
+### Task Management API – Dockerized REST Backend
 A production-ready, Dockerized REST API built with Node.js, Express, and MongoDB Atlas, designed for full CRUD task management. This project demonstrates backend development, containerization with Docker, and real-world cloud deployment on AWS EC2.
 
  Tech Stack: Node.js, Express, MongoDB, Docker, AWS EC2
