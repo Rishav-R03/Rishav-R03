@@ -3,7 +3,7 @@
 
 ---
 
- I’m currently building scalable, production-grade systems using **Fast API, AWS, PostgreSQL, Redis, **  
+ I’m currently building scalable, production-grade systems using **Fast API, AWS, PostgreSQL, Redis, ***  
  I’m learning to architect **high-performance distributed systems** with observability and infrastructure automation  
  Actively applying for **Backend, DevOps, Cloud, and Platform Engineering roles** in high-growth startups and tech firms  
  Reach me at: [rishav042023@gmail.com] | [LinkedIn](https://www.linkedin.com/in/rishav-raj-15b077249/)
