@@ -27,54 +27,6 @@
 
 ---
 
-##  Featured Projects
-
-### Task Management API – Dockerized REST Backend
-A production-ready, Dockerized REST API built with Node.js, Express, and MongoDB Atlas, designed for full CRUD task management. This project demonstrates backend development, containerization with Docker, and real-world cloud deployment on AWS EC2.
-
- Tech Stack: Node.js, Express, MongoDB, Docker, AWS EC2
-
- Fully Dockerized using Docker Compose
-
- Deployed on a live EC2 instance
-
- Supports GET, POST, PUT, DELETE endpoints for managing tasks
-
- Environment-secured MongoDB Atlas integration
-
- This project showcases my combined skills in API development, DevOps, and cloud infrastructure, suitable for SDE and DevOps roles.
-
----
-
-###  Key Features
-
--  JWT Authentication & Authorization
--  CRUD for Tasks
--  95%+ Test Coverage using Jest & Supertest
--  Dockerized for Dev & Production Environments
--  CI/CD Pipeline via GitHub Actions
--  Deployed on AWS EC2 with secure environment variables
----
-
-###  Quick Access
-
-[![🔗 GitHub Repo](https://img.shields.io/badge/GitHub-Repo-24292F?logo=github&style=for-the-badge&logoColor=white)](https://github.com/your-username/notes-api)
-[![📺 Demo Video](https://img.shields.io/badge/Demo-Video-red?style=for-the-badge&logo=youtube)](https://your-demo-link.com)
-[![🌐 Live API](https://img.shields.io/badge/Live-API-success?style=for-the-badge&logo=vercel)](http://your-api-url.com)
-
----
-
-###  Impact
--  Average response time: **<300ms**
--  CI/CD success rate: **100%**
--  API Ready for 10K+ requests/day scale
--  Docker-based one-command deployment
----
-
- This project is part of my **backend + DevOps portfolio**. Feel free to check out the full repository and explore the API routes and test coverage.
-
----
-
 ##  GitHub Stats & Activity
 
 <p align="center">
