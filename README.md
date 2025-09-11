@@ -13,10 +13,10 @@
 ##  Tech Stack
 
 ###  Programming & Backend
-`Python` `Java` `Fast API` `REST APIs`  `JWT`
+`Python` `Java` `Fast API` `Spring boot` `REST APIs`  `JWT`
 
 ###  Databases & Data Modeling
-`PostgreSQL` `SQL` `Database Design` `ACID` `Indexes`
+`PostgreSQL` `SQL` `Database Design` `ACID` `Indexes` `Normalization`
 
 ###  Cloud & DevOps
 `AWS (EC2, S3, Lambda, IAM)` `Docker` `GitHub Actions` `CI/CD`
