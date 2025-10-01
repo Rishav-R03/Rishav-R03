@@ -19,7 +19,7 @@
 `PostgreSQL` `SQL` `Database Design` `ACID` `Indexes` `Normalization`
 
 ###  Cloud & DevOps
-`AWS (EC2, S3, Lambda, IAM)` `Docker` `GitHub Actions` `CI/CD`
+`AWS (EC2, S3, Lambda, IAM)` `Docker` `Linux`
 
 
 ###  CS Core
