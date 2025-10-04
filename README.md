@@ -43,21 +43,10 @@
 
 ---
 
-##  GitHub Highlights
-
--  Infra-as-Code projects with `Terraform`
--  CI/CD pipelines built with `GitHub Actions`
--  Custom monitoring dashboards with `Grafana`
--  Deep understanding of `System Design`, `DSA`, and `CS Fundamentals`
-
----
-
 ##  Career Goals
 
 -  Break into high-impact backend or cloud engineering roles (15+ LPA)
--  Build MLOps-ready infrastructure for AI/LLM model deployment
--  Contribute to open-source infrastructure tooling
-
+-  Contribute to open-source
 ---
 
 ##  Let's Collaborate
@@ -65,7 +54,6 @@
 Got a project or problem in:
 - Backend Scaling
 - Cloud-native Infra
-- Observability / Monitoring
 - CI/CD Automation  
 Feel free to reach out!
 
