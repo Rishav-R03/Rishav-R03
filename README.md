@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishav Raj</h1>
-<h3 align="center">Systems Engineer | Specialized in High-Performance Distributed Systems | Go, Rust, Linux Internals</h3>
+<h3 align="center">Systems Engineer | Specialized in High-Performance Distributed Systems | Go, Python, Linux Internals</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
