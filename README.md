@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
@@ -25,15 +25,11 @@ Currently mastering **Distributed Consensus (Raft)** and **Storage Engine Intern
 - **Systems Architecture:** Deep understanding of Linux internals, memory management (Stack/Heap), and CPU cache locality.
 - **Cloud-Native Infra:** Orchestrating high-availability clusters using Kubernetes and Terraform.
 
-## 🚀 The Lab (Current Projects)
-* **Distributed KV Store:** Implementing Raft consensus in Go for linearizable consistency.
-* **LSM-Tree Storage Engine:** A high-write throughput engine built in Rust focusing on SSTable compaction.
-* **High-Throughput API Gateway:** A custom Go-based gateway with user-space rate limiting and Prometheus observability.
 
 ## 🧰 Tech Stack
 
 ### Languages & Systems
-`Go (Concurrency/GMP)` `Rust (Ownership/Borrow-Checker)` `C/ASM (Interfacing)` `Linux/POSIX`
+`Go (Concurrency/GMP)` `Python` `C/ASM (Interfacing)` `Linux`
 
 ### Infrastructure & Distributed Tools
 `Kafka` `Redis (Distributed Locking)` `gRPC` `Protobuf` `Docker` `Kubernetes`
@@ -47,7 +43,7 @@ Currently mastering **Distributed Consensus (Raft)** and **Storage Engine Intern
 ---
 
 ## 📈 2026 Commitment
-- **Open Source:** Contributing to the Go/Rust ecosystem.
+- **Open Source:** Contributing to the Go/Python ecosystem.
 - **Design Philosophy:** Code for the machine, architect for the human.
 - **Goal:** Designing systems that survive the "10x traffic spike."
 
