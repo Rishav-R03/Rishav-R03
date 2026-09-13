@@ -41,6 +41,7 @@ Currently diving deeper into:
 
 ## 🚀 Featured Projects
 ### 🚀 Distributed Rate Limiter & Request Throttler
+Checkout -> https://github.com/Rishav-R03/distributed-rate-limiter
 
 Production-inspired distributed rate limiting service built in Go using Redis, Lua scripting, PostgreSQL, Prometheus, and Docker.
 
@@ -58,6 +59,7 @@ Production-inspired distributed rate limiting service built in Go using Redis, L
 ---
 
 ### 📊 Event-Driven CQRS Analytics Engine
+Checkout -> https://github.com/Rishav-R03/food_delivery_Analytics_Platform
 
 A production-inspired analytics platform demonstrating how modern food-delivery systems process transactional workloads and serve analytical insights in near real time.
 
@@ -75,6 +77,7 @@ A production-inspired analytics platform demonstrating how modern food-delivery 
 ---
 
 ### ☕ JVMAnalyze — JVM Profiling & Performance Diagnostics Tool
+Checkout -> https://github.com/Rishav-R03/JVMAnalyze
 
 A JVM observability and diagnostics platform for monitoring application performance, analyzing garbage collection behavior, and detecting memory leaks.
 
