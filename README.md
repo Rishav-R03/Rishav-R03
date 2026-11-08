@@ -1,172 +1,54 @@
-<h1 align="center">Hi 👋, I'm Rishav Raj</h1>
+<!-- Paste into github.com/Rishav-R03/Rishav-R03/README.md -->
+<!-- Replace every [FILL: ...] with a MEASURED number before publishing. Delete the line if you can't measure it. -->
 
-<h3 align="center">
-Backend Engineer • Go Developer • Distributed Systems Enthusiast
-</h3>
+# Rishav Raj
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
+**Backend engineer: Go and Python, data pipelines, and the infrastructure behind LLM products.**
 
----
+I build services where correctness is measurable: idempotent APIs, transactional outbox pipelines, rate limiting for LLM endpoints, and AI extraction that validates its own output. Every project below has a one-command Docker setup, load-test numbers and a documented list of known limitations.
 
-## About Me
+📍 New Delhi, India · 📫 rishav042023@gmail.com · [LinkedIn](https://www.linkedin.com/in/rishav-raj-15b077249/)
 
-I'm a backend engineer focused on building reliable, scalable, and performance-oriented systems using Go.
-
-My interests lie at the intersection of:
-
-* Distributed Systems
-* Concurrent Programming
-* Backend Architecture
-* Database Internals
-* Messaging Systems
-* Performance Engineering
-
-I enjoy understanding not only how systems work, but why specific design decisions are made and what tradeoffs exist behind them.
-
-Currently diving deeper into:
-
-* PostgreSQL Internals (MVCC, WAL, Transactions)
-* Redis & Caching Patterns
-* Messaging Systems (RabbitMQ & Kafka)
-* Distributed System Design
-* Go Runtime & GMP Scheduler
+**Stack:** Go · Python (FastAPI, asyncio) · PostgreSQL (pgvector) · Redis · RabbitMQ · Docker · Prometheus/Grafana · AWS (ECS, S3, SQS, Terraform) · OpenAI / Gemini APIs
 
 ---
 
-## 🚀 Featured Projects
-### 🚀 Distributed Rate Limiter & Request Throttler
-Checkout -> https://github.com/Rishav-R03/distributed-rate-limiter
+## Featured projects
 
-Production-inspired distributed rate limiting service built in Go using Redis, Lua scripting, PostgreSQL, Prometheus, and Docker.
+### [DocIntel](https://github.com/Rishav-R03/DocIntel): document-to-JSON extraction API
+Headless, self-hostable service that turns PDFs and images into schema-validated JSON using an LLM. Async FastAPI + SQS worker, encrypted S3 staging, Alembic migrations, Terraform-defined AWS infra, contract-tested OpenAPI.
+- [FILL: extraction accuracy on N labelled documents, e.g. "94% field-level accuracy on 50 invoices"]
+- [FILL: p50 / p95 end-to-end latency per document and cost per document]
+- [FILL: % of LLM outputs passing schema validation on first try vs after retry]
 
-**Tech Stack:** Go • Redis • Lua • PostgreSQL • Prometheus • Grafana • Docker
+`Python` `FastAPI` `PostgreSQL` `SQS` `S3` `Terraform` `ECS` `Gemini`
 
-**Highlights**
+### [Order → Analytics CDC Pipeline](https://github.com/Rishav-R03/food_delivery_Analytics_Platform): transactional outbox, OLTP → OLAP in Go
+Orders are written transactionally, captured by a Postgres trigger into an outbox, delivered at-least-once by a worker, and loaded idempotently into a separate analytics store. A reconciliation job proves both databases agree to the paisa.
+- 19,594 orders under k6 load (100 VUs): **0% errors, p95 20 ms, p99 32 ms**
+- 10 concurrent requests with one `Idempotency-Key` created exactly **1** order
+- Worker killed mid-load: **50/50** orders recovered, **0** reconciliation mismatches
 
-* Engineered a distributed sliding-window rate limiter capable of handling high request throughput while maintaining sub-millisecond decision latency.
-* Implemented atomic Redis Lua scripts to eliminate race conditions and ensure correctness under concurrent traffic.
-* Built an asynchronous analytics pipeline using worker pools and PostgreSQL to decouple request processing from metrics persistence.
-* Designed failure-aware middleware capable of graceful degradation during Redis outages to preserve service availability.
-* Integrated observability using Prometheus and Grafana for latency, throughput, and rate-limit analytics.
-* Load-tested the system under sustained traffic using k6 and Vegeta.
+`Go` `PostgreSQL` `LISTEN/NOTIFY` `Prometheus` `k6` `Docker`
 
----
+### [Distributed Rate Limiter for LLM endpoints](https://github.com/Rishav-R03/distributed-rate-limiter)
+Atomic sliding-window limiter in Redis + Lua protecting downstream model APIs from traffic spikes. Degrades gracefully if Redis is down.
+- **31,000+ req/s**, sub-2 ms p99 [FILL: confirm hardware and tool used, e.g. k6 on 8-core laptop]
+- Prometheus + Grafana dashboards for allow/deny rate and decision latency
 
-### 📊 Event-Driven CQRS Analytics Engine
-Checkout -> https://github.com/Rishav-R03/food_delivery_Analytics_Platform
+`Go` `Redis` `Lua` `Prometheus` `Grafana`
 
-A production-inspired analytics platform demonstrating how modern food-delivery systems process transactional workloads and serve analytical insights in near real time.
-
-**Tech Stack:** Go • PostgreSQL • CDC • Docker • Prometheus • k6
-
-**Highlights**
-
-* Architected a CQRS-based microservices system separating transactional OLTP workloads from analytical OLAP workloads.
-* Built an event-driven CDC pipeline using PostgreSQL LISTEN/NOTIFY to synchronize operational and analytical databases.
-* Designed denormalized fact-table analytics models optimized for dashboard-style queries and reporting workloads.
-* Developed independent Order Service, CDC Worker, and Analytics Service components communicating through asynchronous event flows.
-* Implemented observability, structured logging, and performance benchmarking to validate system reliability under load.
-* Demonstrated real-world backend patterns used in large-scale data-intensive applications.
+<!-- Optional 4th slot: add the WAL message broker or LLM gateway ONLY if the repo is public, has a README with benchmarks, and CI passing. -->
 
 ---
 
-### ☕ JVMAnalyze — JVM Profiling & Performance Diagnostics Tool
-Checkout -> https://github.com/Rishav-R03/JVMAnalyze
+## What I'm doing now
+Building an LLM-powered assistant for HR appraisal workflows in production (FastAPI, OpenAI, 560+ automated tests). Previously interned on Go/QUIC network services and RabbitMQ pipelines at Hashed Tokens.
 
-A JVM observability and diagnostics platform for monitoring application performance, analyzing garbage collection behavior, and detecting memory leaks.
+## Working on next
+- Finishing DocIntel's AI extraction phase with a published accuracy/cost evaluation
+- Adding integration tests and CI to the CDC pipeline
+- Writing up the outbox-vs-log-based-CDC trade-offs [FILL: link when published]
 
-**Tech Stack:** Java • JMX • JVM Internals • Maven • Log4j
-
-**Highlights**
-
-* Built a real-time JVM monitoring platform collecting heap, thread, garbage collection, and runtime telemetry through JMX instrumentation.
-* Developed a GC analytics engine capable of parsing and analyzing high-frequency garbage collection events across multiple GC algorithms.
-* Implemented automated memory-leak detection using trend-analysis techniques to identify abnormal heap growth patterns before failures occur.
-* Generated actionable performance reports containing latency distributions, GC efficiency metrics, and tuning recommendations.
-* Designed a terminal-based monitoring dashboard providing low-latency visibility into JVM health and resource utilization.
-* Enabled comparative analysis of JVM behavior across different garbage collectors and runtime configurations.
-
----
-
-## 🛠 Tech Stack
-
-### Languages
-
-* Go
-* Java
-* SQL
-
-### Backend Development
-
-* REST APIs
-* Microservices
-* Concurrent Programming
-* Event-Driven Architecture
-* Worker Pools
-* API Design
-
-### Databases
-
-* PostgreSQL
-* Redis
-
-### Messaging & Infrastructure
-
-* RabbitMQ
-* Docker
-
-### Monitoring & Observability
-
-* Prometheus
-* Grafana
-
-### Core Concepts
-
-* Concurrency
-* Caching
-* Transactions
-* Database Design
-* Message Queues
-* Distributed Systems Fundamentals
-
----
-
-## 📚 Currently Learning
-
-* Advanced Data Structures & Algorithms
-* PostgreSQL Internals
-* Redis Internals
-* Kafka
-* Distributed Systems
-* Go Runtime Internals
-* System Design
-
----
-
-## 🎯 2027 Goals
-
-* Build production-grade distributed systems
-* Contribute to open-source Go projects
-* Deepen expertise in databases and messaging systems
-* Publish technical write-ups on backend engineering
-* Land a high-impact Backend / Platform Engineering role
-
----
-
-## 📫 Connect With Me
-
-* Email: **[rishav042023@gmail.com](mailto:rishav042023@gmail.com)**
-* LinkedIn: [**[LinkedIn]**](https://www.linkedin.com/in/rishav-raj-15b077249/)
-* GitHub: **[GitHub](https://github.com/Rishav-R03)**
-
----
-
-<p align="center">
-  <i>"First make it work. Then make it correct. Then make it fast."</i>
-</p>
+## Background
+B.Tech CSE, VIT Bhopal (2022–2026), CGPA 8.56.
